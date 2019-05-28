@@ -3,3 +3,4 @@
 .idea/
 mm/mm.iml
 mm/src/
+!/mm/src/main/java/lll.java
